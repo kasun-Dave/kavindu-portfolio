@@ -6,7 +6,7 @@ const HireMe = () => {
     <div className="hire-me">
       <div className="circular-text-container">
         <Image 
-          src="/images/svgs/CircularText.svg" 
+          src="images/svgs/CircularText.svg" 
           alt="Join Squad" 
           width={150} 
           height={150}

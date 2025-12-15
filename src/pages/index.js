@@ -22,7 +22,7 @@ export default function Home() {
           {/* Profile Image */}
           <div className="profile-image-container">
             <Image 
-              src="/images/profile/kavindu-profile.png" 
+              src="images/profile/kavindu-profile.png" 
               alt="Kavindu Vikum Profile" 
               width={550} 
               height={550}
@@ -44,7 +44,7 @@ export default function Home() {
               <a href="/dummy.pdf" download className="btn-primary">
                 Player Profile 
                 <Image 
-                  src="/images/svgs/external-link.svg" 
+                  src="images/svgs/external-link.svg" 
                   alt="Download" 
                   width={20} 
                   height={20}
